@@ -1,3 +1,12 @@
 {
-  "users": []
+    "users": [],
+    "keys": [
+        {
+            "key": "SRIA-Y3NS-095L-6293",
+            "used": false,
+            "username": null,
+            "banned": false,
+            "purchased": false
+        }
+    ]
 }
