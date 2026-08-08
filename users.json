@@ -1,16 +1,3 @@
 {
-    "users": [
-        {
-            "username": "test",
-            "password": "test"
-        }
-    ],
-    "keys": [
-        {
-            "key": "SRIA-CE12-5OIQ-JW9W",
-            "used": true,
-            "username": "test",
-            "banned": false
-        }
-    ]
+  "users": []
 }
