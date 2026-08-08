@@ -1,3 +1,11 @@
 {
-  "users": []
+    "users": [],
+    "keys": [
+        {
+            "key": "SRIA-1GUB-AVUF-Y3CB",
+            "used": false,
+            "username": null,
+            "banned": false
+        }
+    ]
 }
