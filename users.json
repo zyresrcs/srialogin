@@ -1,10 +1,15 @@
 {
-    "users": [],
+    "users": [
+        {
+            "username": "l8z4",
+            "password": "12345"
+        }
+    ],
     "keys": [
         {
             "key": "SRIA-1GUB-AVUF-Y3CB",
-            "used": false,
-            "username": null,
+            "used": true,
+            "username": "l8z4",
             "banned": false
         }
     ]
