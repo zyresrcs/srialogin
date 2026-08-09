@@ -3,6 +3,10 @@
         {
             "username": "Shap",
             "password": "Shappass"
+        },
+        {
+            "username": "falseperson",
+            "password": "pass12345"
         }
     ],
     "keys": [
@@ -15,8 +19,8 @@
         },
         {
             "key": "SRIA-W3GD-9SLV-QNX5",
-            "used": false,
-            "username": null,
+            "used": true,
+            "username": "falseperson",
             "banned": false,
             "purchased": true,
             "purchased_by": "1410169316694823032"
