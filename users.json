@@ -18,7 +18,8 @@
             "used": false,
             "username": null,
             "banned": false,
-            "purchased": false
+            "purchased": true,
+            "purchased_by": "1410169316694823032"
         },
         {
             "key": "SRIA-GW35-K0Q0-UH33",
@@ -41,5 +42,8 @@
             "banned": false,
             "purchased": false
         }
+    ],
+    "purchases": [
+        "1410169316694823032"
     ]
 }
