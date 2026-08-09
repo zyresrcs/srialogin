@@ -19,7 +19,8 @@
             "used": false,
             "username": null,
             "banned": false,
-            "purchased": false
+            "purchased": true,
+            "purchased_by": "1469129262278770698"
         },
         {
             "key": "SRIA-N0PC-1Y6F-B24A",
@@ -37,6 +38,7 @@
         }
     ],
     "purchases": [
-        "1410169316694823032"
+        "1410169316694823032",
+        "1469129262278770698"
     ]
 }
