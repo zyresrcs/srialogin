@@ -1,10 +1,15 @@
 {
-    "users": [],
+    "users": [
+        {
+            "username": "Shap",
+            "password": "Shappass"
+        }
+    ],
     "keys": [
         {
             "key": "SRIA-Y3NS-095L-6293",
-            "used": false,
-            "username": null,
+            "used": true,
+            "username": "Shap",
             "banned": false,
             "purchased": true
         },
