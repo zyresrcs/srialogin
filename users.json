@@ -1,22 +1,11 @@
 {
     "users": [
         {
-            "username": "Shap",
-            "password": "Shappass"
-        },
-        {
             "username": "falseperson",
             "password": "pass12345"
         }
     ],
     "keys": [
-        {
-            "key": "SRIA-Y3NS-095L-6293",
-            "used": true,
-            "username": "Shap",
-            "banned": false,
-            "purchased": true
-        },
         {
             "key": "SRIA-W3GD-9SLV-QNX5",
             "used": true,
