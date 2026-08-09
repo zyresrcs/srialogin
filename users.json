@@ -3,6 +3,10 @@
         {
             "username": "falseperson",
             "password": "pass12345"
+        },
+        {
+            "username": "zddev",
+            "password": "password1234"
         }
     ],
     "keys": [
@@ -16,8 +20,8 @@
         },
         {
             "key": "SRIA-GW35-K0Q0-UH33",
-            "used": false,
-            "username": null,
+            "used": true,
+            "username": "zddev",
             "banned": false,
             "purchased": true,
             "purchased_by": "1469129262278770698"
