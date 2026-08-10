@@ -31,7 +31,8 @@
             "used": false,
             "username": null,
             "banned": false,
-            "purchased": false
+            "purchased": true,
+            "purchased_by": "942224131527671858"
         },
         {
             "key": "SRIA-MYBJ-C4UM-NFP5",
@@ -71,6 +72,7 @@
     ],
     "purchases": [
         "1410169316694823032",
-        "1469129262278770698"
+        "1469129262278770698",
+        "942224131527671858"
     ]
 }
