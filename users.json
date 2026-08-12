@@ -15,6 +15,10 @@
         {
             "username": "ratter",
             "password": "ratter13"
+        },
+        {
+            "username": "admin",
+            "password": "abc123"
         }
     ],
     "keys": [
@@ -52,8 +56,8 @@
         },
         {
             "key": "SRIA-5DNM-6EVP-8OWT",
-            "used": false,
-            "username": null,
+            "used": true,
+            "username": "admin",
             "banned": false,
             "purchased": true,
             "purchased_by": "868183248084299776"
